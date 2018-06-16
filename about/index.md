@@ -1,37 +1,30 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
-comments: false
+title: About GitHub Training Team
+tags: [about, Jekyll, Github, Team]
+date: 2018-06-15
+comments: true
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://github.com/githubtraining"><b>GitHub Training Team</b></a> is teaching the world how to effectively use the GitHub collaboration platform</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
+## On Demand Training
+* GitHub 101: Introduction to GitHub
+* GitHub 102: GitHub Pages from GitHub Desktop
+* GitHub 103: GitHub Pages from the Command Line
+* GitHub for Windows Users
+* Managing Merge Conflicts
+* Git Out of Trouble
+* Introduction to GraphQL
+* Electron
 * Simple navigation menu
 * MathJax support
 
-## Preview
+## Let's do it
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://services.github.com/on-demand/images/about/welcometocat.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=1 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+See [Training resources](https://services.github.com/on-demand/resources/).
