@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
  
-![Rock On](https://services.github.com/on-demand/images/about/inspectocat.jpg "Center of the world")
+![Rock On](/assets/img/Developers.png)
 
 ---    
 How can developers bridge communication gaps, using GitHub?
