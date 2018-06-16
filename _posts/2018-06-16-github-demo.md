@@ -12,8 +12,8 @@ tag:
 - theme
 comments: true
 ---
-
-[Rock on](https://github.com/tudornotes/tudornotes.github.io/blob/master/assets/img/Developers.png)    
+ 
+![Rock On](https://github.com/tudornotes/tudornotes.github.io/blob/master/assets/img/Developers.png "Call Deck")
 
 ---    
 How can developers bridge communication gaps, using GitHub?
